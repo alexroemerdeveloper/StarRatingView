@@ -13,6 +13,7 @@
 		6FFE0A0723AD348000E45051 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FFE0A0623AD348000E45051 /* Assets.xcassets */; };
 		6FFE0A0A23AD348000E45051 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FFE0A0923AD348000E45051 /* Preview Assets.xcassets */; };
 		6FFE0A0D23AD348000E45051 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FFE0A0B23AD348000E45051 /* LaunchScreen.storyboard */; };
+		6FFE0A1523AD349300E45051 /* StarRatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FFE0A1423AD349300E45051 /* StarRatingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6FFE0A0923AD348000E45051 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6FFE0A0C23AD348000E45051 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6FFE0A0E23AD348000E45051 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6FFE0A1423AD349300E45051 /* StarRatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarRatingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				6FFE0A0023AD347E00E45051 /* AppDelegate.swift */,
 				6FFE0A0223AD347E00E45051 /* SceneDelegate.swift */,
 				6FFE0A0423AD347E00E45051 /* ContentView.swift */,
+				6FFE0A1423AD349300E45051 /* StarRatingView.swift */,
 				6FFE0A0623AD348000E45051 /* Assets.xcassets */,
 				6FFE0A0B23AD348000E45051 /* LaunchScreen.storyboard */,
 				6FFE0A0E23AD348000E45051 /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6FFE0A0123AD347E00E45051 /* AppDelegate.swift in Sources */,
+				6FFE0A1523AD349300E45051 /* StarRatingView.swift in Sources */,
 				6FFE0A0323AD347E00E45051 /* SceneDelegate.swift in Sources */,
 				6FFE0A0523AD347E00E45051 /* ContentView.swift in Sources */,
 			);
